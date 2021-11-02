@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "WorkApi_Atividade",
+    "slug": "WorkApi_Atividade",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "WorkApi_Atividade"
+}
